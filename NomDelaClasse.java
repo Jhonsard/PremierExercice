@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 //2. Déclaration de la classe principale
-public class NomDelaClasse{
+public class SimpaddMachine{
     //3. Méthodes principales (point d'entrée du programme)
     public static void main(String[] args) {
         // Déclaration des variables
